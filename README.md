@@ -15,7 +15,7 @@ It only contains a minimal **tutorial setup script**. You will **build everythin
 ```bash
 mkdir -p ~/projects
 cd ~/projects
-git clone git@github.com:NovixManiac/novix-video-tutorial.git
+git clone https://github.com/NovixManiac/novix-video-tutorial.git
 cd novix-video-tutoral
 chmod +x novix_tutorial_setup.sh
 ./novix_tutorial_setup.sh 
